@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kotlin-LN</string>
+
+    <string name="count_label">Q%d</string>
+    <string name="question_label">Question</string>
+    <string name="button_answer">Choice</string>
+
+    <string name="result_title">Result</string>
+    <string name="result_score">%d / 15</string>
+    <string name="button_try_again">Try Again</string>
+</resources>
